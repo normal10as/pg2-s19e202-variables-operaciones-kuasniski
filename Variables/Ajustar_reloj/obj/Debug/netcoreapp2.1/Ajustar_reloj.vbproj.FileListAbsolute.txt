@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\bin\Debug\netcoreapp2.1\Ajustar_reloj.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Ajustar_reloj\obj\Debug\netcoreapp2.1\Ajustar_reloj.pdb

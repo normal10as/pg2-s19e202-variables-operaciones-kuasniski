@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\bin\Debug\netcoreapp2.1\aritmética.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\bin\Debug\netcoreapp2.1\aritmética.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\bin\Debug\netcoreapp2.1\aritmética.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\bin\Debug\netcoreapp2.1\aritmética.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\bin\Debug\netcoreapp2.1\aritmética.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\aritmética\obj\Debug\netcoreapp2.1\aritmética.pdb

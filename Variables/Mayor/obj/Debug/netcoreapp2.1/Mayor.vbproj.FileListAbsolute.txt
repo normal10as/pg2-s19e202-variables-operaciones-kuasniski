@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\bin\Debug\netcoreapp2.1\Mayor.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\bin\Debug\netcoreapp2.1\Mayor.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\bin\Debug\netcoreapp2.1\Mayor.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Mayor\obj\Debug\netcoreapp2.1\Mayor.pdb

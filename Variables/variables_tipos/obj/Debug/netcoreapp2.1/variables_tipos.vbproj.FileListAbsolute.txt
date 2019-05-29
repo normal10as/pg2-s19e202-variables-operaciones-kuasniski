@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\bin\Debug\netcoreapp2.1\variables_tipos.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_tipos\obj\Debug\netcoreapp2.1\variables_tipos.pdb

@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\bin\Debug\netcoreapp2.1\variables_consola.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\variables_consola\obj\Debug\netcoreapp2.1\variables_consola.pdb

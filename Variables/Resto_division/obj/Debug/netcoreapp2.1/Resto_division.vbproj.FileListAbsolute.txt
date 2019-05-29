@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.pdb

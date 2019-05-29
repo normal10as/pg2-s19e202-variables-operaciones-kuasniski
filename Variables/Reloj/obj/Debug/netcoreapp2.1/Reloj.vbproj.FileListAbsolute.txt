@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\bin\Debug\netcoreapp2.1\Reloj.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Reloj\obj\Debug\netcoreapp2.1\Reloj.pdb

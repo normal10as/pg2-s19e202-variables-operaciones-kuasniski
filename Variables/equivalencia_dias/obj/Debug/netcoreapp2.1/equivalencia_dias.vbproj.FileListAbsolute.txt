@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\bin\Debug\netcoreapp2.1\equivalencia_dias.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\equivalencia_dias\obj\Debug\netcoreapp2.1\equivalencia_dias.pdb

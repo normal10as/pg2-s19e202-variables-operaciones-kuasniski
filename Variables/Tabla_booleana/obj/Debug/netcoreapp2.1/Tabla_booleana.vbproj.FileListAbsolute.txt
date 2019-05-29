@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\bin\Debug\netcoreapp2.1\Tabla_booleana.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Tabla_booleana\obj\Debug\netcoreapp2.1\Tabla_booleana.pdb

@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\bin\Debug\netcoreapp2.1\Intereses.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\bin\Debug\netcoreapp2.1\Intereses.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\bin\Debug\netcoreapp2.1\Intereses.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\bin\Debug\netcoreapp2.1\Intereses.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\bin\Debug\netcoreapp2.1\Intereses.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Intereses\obj\Debug\netcoreapp2.1\Intereses.pdb

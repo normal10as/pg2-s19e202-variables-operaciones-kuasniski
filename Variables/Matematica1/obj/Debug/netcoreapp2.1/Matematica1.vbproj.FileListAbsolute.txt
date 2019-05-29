@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\bin\Debug\netcoreapp2.1\Matematica1.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Matematica1\obj\Debug\netcoreapp2.1\Matematica1.pdb

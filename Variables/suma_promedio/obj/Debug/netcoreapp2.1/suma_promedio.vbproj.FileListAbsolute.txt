@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\bin\Debug\netcoreapp2.1\suma_promedio.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\bin\Debug\netcoreapp2.1\suma_promedio.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\bin\Debug\netcoreapp2.1\suma_promedio.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\bin\Debug\netcoreapp2.1\suma_promedio.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\bin\Debug\netcoreapp2.1\suma_promedio.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\suma_promedio\obj\Debug\netcoreapp2.1\suma_promedio.pdb

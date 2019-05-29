@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\bin\Debug\netcoreapp2.1\Redondeo.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Redondeo\obj\Debug\netcoreapp2.1\Redondeo.pdb

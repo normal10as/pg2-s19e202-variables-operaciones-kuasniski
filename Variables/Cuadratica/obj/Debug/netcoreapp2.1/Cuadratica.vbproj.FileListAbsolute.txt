@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.deps.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.runtimeconfig.dev.json
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\bin\Debug\netcoreapp2.1\Cuadratica.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfoInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.AssemblyInfo.vb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.dll
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cuadratica\obj\Debug\netcoreapp2.1\Cuadratica.pdb

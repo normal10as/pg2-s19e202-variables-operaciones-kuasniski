@@ -1,0 +1,11 @@
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\bin\Debug\Cadenas1.exe.config
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\bin\Debug\Cadenas1.exe
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\bin\Debug\Cadenas1.pdb
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\bin\Debug\Cadenas1.xml
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.vbprojAssemblyReference.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.Resources.resources
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.GenerateResource.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.vbproj.CoreCompileInputs.cache
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.exe
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.xml
+D:\GitHubProject\Programacion2\pg2-s19e202-variables-operaciones-kuasniski\Variables\Cadenas1\obj\Debug\Cadenas1.pdb
